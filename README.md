@@ -22,3 +22,9 @@
          1. python manage.py createsuperuser
          2. localhost:8000/admin/
          3. Character
+      3. views
+         1. R: CharacterListView
+      4. templates/소닉/
+         1. character_list.html
+      5. urls
+         1. 소닉:character_list
